@@ -1,0 +1,824 @@
+{
+  "type": "Restaurant Menu",
+  "restaurant-info": {
+    "id": "121732",
+    "name": "JUSA COLD PRESSED",
+    "address": "Dizengof 101, Tel Aviv",
+    "latitude": "32.0794690758001",
+    "longitude": "34.77374608021818",
+    "rating": "9.40",
+    "description": "Smoothies, Juices, Sandwiches, Salads & Healthy Snacks",
+    "tags": ["Salad","Smoothie","Vegan","Sandwich"],
+    "price": "$$",
+    "minimum-order-price": "50.00",
+    "delivery-fee": "10.00",
+    "avg_delivery_time": "25",
+    "logo": "",
+    "total-category": "9",
+    "phone": "+97237305599",
+    "facebook-page": "https://www.facebook.com/jusacoldpressed/",
+    "site-url": "https://www.jusa.co.il",
+    "menu-url": "https://www.jusa.co.il/menu",
+    "deliverable-area": [
+      {
+        "category_id": "1",
+        "district_id": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+      },
+      {
+        "category_id": "2",
+        "district_id": ["13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
+      },
+      {
+        "category_id": "3",
+        "district_id": ["27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+      },
+      {
+        "category_id": "4",
+        "district_id": ["41", "42", "43", "44", "45", "46"]
+      },
+      {
+        "category_id": "5",
+        "district_id": ["47", "48", "49", "50", "51", "52", "53", "54"]
+      },
+      {
+        "category_id": "6",
+        "district_id": ["55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66"]
+      }
+    ],
+    "total-food-items": "35",
+    "restaurant-discount": {
+      "type": "",
+      "value": "0.00"
+    },
+    "restaurant-images": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ]
+  },
+  "restaurant-time-info": {
+    "sat": [
+      {
+        "open": "Closed",
+        "close": "Closed"
+      }
+    ],
+    "sun": [
+      {
+        "open": "08:00:00",
+        "close": "22:00:00"
+      }
+    ],
+    "mon": [
+      {
+        "open": "08:00:00",
+        "close": "22:00:00"
+      }
+    ],
+    "tue": [
+      {
+        "open": "08:00:00",
+        "close": "22:00:00"
+      }
+    ],
+    "wed": [
+      {
+        "open": "08:00:00",
+        "close": "22:00:00"
+      }
+    ],
+    "thu": [
+      {
+        "open": "08:00:00",
+        "close": "22:00:00"
+      }
+    ],
+    "fri": [
+      {
+        "open": "08:00:00",
+        "close": "18:00:00"
+      }
+    ]
+  }
+  ,
+  "categorys": [
+    {
+    "id": "26585",
+    "name": "Hot Summer Deals 🔥",
+    "position": "1",
+    "menu-items": [
+    {
+    "id": "94347",
+    "name": "Kailey",
+    "popular": 0,
+    "description": "Kale, spinach, cucumber, fennel, lemon and pear",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Kale", "spinach", "cucumber", "fennel", "lemon", "pear"]
+    },
+    {
+    "id": "94348",
+    "name": "Sweet Green",
+    "popular": 0,
+    "description": "Kale, chard, cucumber, pear, orange, lemon, mint",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Kale", "chard", "cucumber", "pear", "orange", "lemon", "mint"]
+    },
+    {
+    "id": "94349",
+    "name": "Sunrise",
+    "popular": 0,
+    "description": "Mango, banana, melon, agave, cinnamon",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Mango", "banana", "melon", "agave", "cinnamon"]
+    },
+    {
+    "id": "94350",
+    "name": "Cafe Latte",
+    "popular": 0,
+    "description": "Almond milk, dates COLD BREW COFFEE, water, cinnamon, vanilla, Atlantic sea salt",
+    "image-url": "",
+    "price": "28.00",
+    "discounted-price": "25.20",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Almond milk", "dates", "COLD BREW COFFEE", "water", "cinnamon", "vanilla", "Atlantic sea salt"]
+    },
+    {
+    "id": "94351",
+    "name": "Cacao Joy",
+    "popular": 0,
+    "description": "Almond milk, dates, RAW cocoa, vanilla",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Almond milk", "dates", "RAW cocoa", "vanilla"]
+    },
+    {
+    "id": "94352",
+    "name": "Garden",
+    "popular": 0,
+    "description": "Beetroot, carrot, apple, ginger",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Beetroot", "carrot", "apple", "ginger"]
+    },
+    {
+    "id": "94353",
+    "name": "Orange",
+    "popular": 0,
+    "description": "orange",
+    "image-url": "",
+    "price": "20.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["orange"]
+    },
+    {
+    "id": "94354",
+    "name": "Celery Juice",
+    "popular": 0,
+    "description": "Celery and lemon",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Celery", "lemon"]
+    },
+    {
+    "id": "94355",
+    "name": "Purify",
+    "popular": 0,
+    "description": "Kale, lettuce, spinach, cucumber, celery, lemon, ginger, parsley",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Kale", "lettuce", "spinach", "cucumber", "celery", "lemon", "ginger", "parsley"]
+    },
+    {
+    "id": "94356",
+    "name": "Pu'er Iced Tea",
+    "popular": 0,
+    "description": "Green tea, po-ar, apple, lemon, pineapple",
+    "image-url": "",
+    "price": "20.00",
+    "discounted-price": "18.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Green tea", "po-ar", "apple", "lemon", "pineapple"]
+    },
+    {
+    "id": "94357",
+    "name": "Hibiscus Iced Tea",
+    "popular": 0,
+    "description": "Green tea, hibiscus, ginger",
+    "image-url": "",
+    "price": "20.00",
+    "discounted-price": "18.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Green tea", "hibiscus", "ginger"]
+    },
+    {
+    "id": "94358",
+    "name": "Immunity",
+    "popular": 0,
+    "description": "Orange, carrot, ginger, turmeric",
+    "image-url": "",
+    "price": "30.00",
+    "discounted-price": "27.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Orange", "carrot", "ginger", "turmeric"]
+    },
+    {
+    "id": "94359",
+    "name": "Mexican Love",
+    "popular": 0,
+    "description": "Hazelnut milk, banana, avocado, cocoa, cayenne pepper and Majhol dates",
+    "image-url": "",
+    "price": "35.00",
+    "discounted-price": "31.50",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "Hot Summer Deals 🔥",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Hazelnut milk", "banana", "avocado", "cocoa", "cayenne pepper", "Majhol dates"]
+    }
+    ]
+    },
+    {
+      "id": "26586",
+      "name": "SALADS",
+      "position": "2",
+      "menu-items": [
+      {
+      "id": "94360",
+      "name": "The Perfect Mediterranean Salad",
+      "popular": 0,
+      "description": "Cucumber, cherry tomatoes, tomatoes, radish, broccoli, Kalamata olives, rocket, salty granola, vegan feta cheese",
+      "image-url": "",
+      "price": "55.00",
+      "consumable": "1:1",
+      "vegeterian": 1,
+      "vegan": 1,
+      "gluten-free": 1,
+      "category_name": "SALADS",
+      "discount": {
+      "type": "",
+      "amount": "0.00"
+      },
+      "tags": ["Cucumber", "cherry tomatoes", "tomatoes", "radish", "broccoli", "Kalamata olives", "rocket", "salty granola", "vegan feta cheese"]
+      },
+      {
+      "id": "94361",
+      "name": "Tabboulea Rosa Salad",
+      "popular": 0,
+      "description": "Bulgogi, pomegranates, cranberries, mixed greens, beets, pumpkin seeds, salty granola, garlic and pomegranate vinaigrette",
+      "image-url": "",
+      "price": "45.00",
+      "consumable": "1:1",
+      "vegeterian": 1,
+      "vegan": 1,
+      "gluten-free": 1,
+      "category_name": "SALADS",
+      "discount": {
+      "type": "",
+      "amount": "0.00"
+      },
+      "tags": ["Bulgogi", "pomegranates", "cranberries", "mixed greens", "beets", "pumpkin seeds", "salty granola", "garlic", "pomegranate vinaigrette"]
+      },
+      {
+      "id": "94362",
+      "name": "Bali Salad",
+      "popular": 0,
+      "description": "Bean noodles, hijiki seaweed, green beans, grilled cabbage, zucchini, cucumber, peanuts, shallot, Indonesian sauce (spicy)",
+      "image-url": "",
+      "price": "55.00",
+      "consumable": "1:1",
+      "vegeterian": 1,
+      "vegan": 1,
+      "gluten-free": 1,
+      "category_name": "SALADS",
+      "discount": {
+      "type": "",
+      "amount": "0.00"
+      },
+      "tags": ["Bean noodles", "hijiki seaweed", "green beans", "grilled cabbage", "zucchini", "cucumber", "peanuts", "shallot", "Indonesian sauce"]
+      },
+      {
+      "id": "94363",
+      "name": "Buddha Bowl",
+      "popular": 0,
+      "description": "Soba noodles, hijiki seaweed, broccoli, edamame, sprouts, watercress, radish, mint, cucumber, peanuts, Japanese gum sauce",
+      "image-url": "",
+      "price": "55.00",
+      "consumable": "1:1",
+      "vegeterian": 1,
+      "vegan": 1,
+      "gluten-free": 1,
+      "category_name": "SALADS",
+      "discount": {
+      "type": "",
+      "amount": "0.00"
+      },
+      "tags": ["Soba noodles", "hijiki seaweed", "broccoli", "edamame", "sprouts", "watercress", "radish", "mint", "cucumber", "peanuts", "Japanese gum sauce"]
+      }
+      ]
+      },
+      {
+        "id": "26587",
+        "name": "Sandwiches and tortillas",
+        "position": "3",
+        "menu-items": [
+        {
+        "id": "94364",
+        "name": "Emily",
+        "popular": 0,
+        "description": "Country baguette, ruby pecan cheese, nectarine slices, bloody rocket",
+        "image-url": "",
+        "price": "35.00",
+        "consumable": "1:1",
+        "vegeterian": 1,
+        "vegan": 0,
+        "gluten-free": 0,
+        "category_name": "Sandwiches and tortillas",
+        "discount": {
+        "type": "",
+        "amount": "0.00"
+        },
+        "tags": ["Country baguette", "ruby pecan cheese", "nectarine slices", "bloody rocket"]
+        },
+        {
+        "id": "94365",
+        "name": "Vegan Shawarma",
+        "popular": 0,
+        "description": "Sprouted hummus tortilla - gluten-free, shawarma tofu, tahini and vegan yogurt, arisa (slightly spicy), roasted pepper, home-pickled cucumber and caramelized onion",
+        "image-url": "",
+        "price": "32.00",
+        "consumable": "1:1",
+        "vegeterian": 1,
+        "vegan": 1,
+        "gluten-free": 1,
+        "category_name": "Sandwiches and tortillas",
+        "discount": {
+        "type": "",
+        "amount": "0.00"
+        },
+        "tags": ["Sprouted hummus tortilla", "shawarma tofu", "tahini", "vegan yogurt", "arisa", "roasted pepper", "home-pickled cucumber", "caramelized onion"]
+        }
+        ]
+        },
+        
+{
+  "id": "26588",
+  "name": "HEALTHY SNACKS",
+  "position": "4",
+  "menu-items": [
+  {
+  "id": "94366",
+  "name": "Vegan Muesli",
+  "popular": 0,
+  "description": "Cashew yogurt, natural granola, silan, seasonal fruits",
+  "image-url": "",
+  "price": "28.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 0,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Cashew yogurt", "natural granola", "silan", "seasonal fruits"]
+  },
+  {
+  "id": "94367",
+  "name": "Power Bowl",
+  "popular": 0,
+  "description": "Green Leaves, Spirolina",
+  "image-url": "",
+  "price": "26.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 1,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Green Leaves", "Spirolina"]
+  },
+  {
+  "id": "94368",
+  "name": "Chia Pudding",
+  "popular": 0,
+  "description": "Almond milk, chia seeds, banana, natural granola, silane",
+  "image-url": "",
+  "price": "24.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 0,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Almond milk", "chia seeds", "banana", "natural granola", "silane"]
+  },
+  {
+  "id": "94369",
+  "name": "Fresh Pineapple",
+  "popular": 0,
+  "description": "Freshly cut pineapple",
+  "image-url": "",
+  "price": "25.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 1,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Freshly cut pineapple"]
+  },
+  {
+  "id": "94370",
+  "name": "Fresh Fruit Salad",
+  "popular": 0,
+  "description": "Seasonal fruit salad, orange juice, goji berries and walnuts",
+  "image-url": "",
+  "price": "24.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 1,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Seasonal fruit salad", "orange juice", "goji berries", "walnuts"]
+  },
+  {
+  "id": "94371",
+  "name": "Fresh Coconut",
+  "popular": 0,
+  "description": "Fresh coconut",
+  "image-url": "",
+  "price": "25.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 1,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Fresh coconut"]
+  },
+  {
+  "id": "94372",
+  "name": "Mango Tapioca",
+  "popular": 0,
+  "description": "Coconut milk-based tapioca, mango coulis and seasonal fruit salad",
+  "image-url": "",
+  "price": "25.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 1,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Coconut milk-based tapioca", "mango coulis", "seasonal fruit salad"]
+  },
+  {
+  "id": "94373",
+  "name": "Fitness Pro",
+  "popular": 0,
+  "description": "mango, banana, almond milk, peanut butter, protein whey, cranberries, cocoa nibs, coconut",
+  "image-url": "",
+  "price": "28.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 0,
+  "gluten-free": 1,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["mango", "banana", "almond milk", "peanut butter", "protein whey", "cranberries", "cocoa nibs", "coconut"]
+  },
+  {
+  "id": "94374",
+  "name": "Strawberry Chia Pudding",
+  "popular": 0,
+  "description": "Almond milk, chia seeds, banana, Majhol tamari, strawberries, natural granola, blueberries, silan",
+  "image-url": "",
+  "price": "24.00",
+  "consumable": "1:1",
+  "vegeterian": 1,
+  "vegan": 1,
+  "gluten-free": 0,
+  "category_name": "HEALTHY SNACKS",
+  "discount": {
+  "type": "",
+  "amount": "0.00"
+  },
+  "tags": ["Almond milk", "chia seeds", "banana", "Majhol tamari", "strawberries", "natural granola", "blueberries", "silan"]
+  }
+  ]
+  },
+  {
+    "id": "26589",
+    "name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "position": "5",
+    "menu-items": [
+    {
+    "id": "94375",
+    "name": "Natural Granola",
+    "popular": 0,
+    "description": "Oatmeal, Buckwheat, Silan, Apple Cider, Raisons, Almonds, Cashew, Goji Berry, Pumpkin Seeds, Coconut oil, Organic Strawberries, Flax, Salt",
+    "image-url": "",
+    "price": "38.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 0,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Oatmeal", "Buckwheat", "Silan", "Apple Cider", "Raisons", "Almonds", "Cashew", "Goji Berry", "Pumpkin Seeds", "Coconut oil", "Organic Strawberries", "Flax", "Salt"]
+    },
+    {
+    "id": "94376",
+    "name": "Superfoods Granola",
+    "popular": 0,
+    "description": "Buckwheat, Pumpkin, Almonds, Raisons, Apple, Cranberries, Ginger, Goji Berry, Flax, Apple Syrup",
+    "image-url": "",
+    "price": "42.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Buckwheat", "Pumpkin", "Almonds", "Raisons", "Apple", "Cranberries", "Ginger", "Goji Berry", "Flax", "Apple Syrup"]
+    },
+    {
+    "id": "94377",
+    "name": "Beet Crackers",
+    "popular": 0,
+    "description": "Beet Crackers",
+    "image-url": "",
+    "price": "36.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Beet Crackers"]
+    },
+    {
+    "id": "94378",
+    "name": "Spirulina Crackers",
+    "popular": 0,
+    "description": "Spirulina Crackers",
+    "image-url": "",
+    "price": "36.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Spirulina Crackers"]
+    },
+    {
+    "id": "94379",
+    "name": "Turmeric Crackers",
+    "popular": 0,
+    "description": "Tumeric Crackers",
+    "image-url": "",
+    "price": "36.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Tumeric Crackers"]
+    },
+    {
+    "id": "94380",
+    "name": "Buckwheat Crackers",
+    "popular": 0,
+    "description": "Buckwheat cracker",
+    "image-url": "",
+    "price": "36.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Buckwheat cracker"]
+    },
+    {
+    "id": "94381",
+    "name": "Morning Mix",
+    "popular": 0,
+    "description": "Cashew, Almonds, Dark Chocolate 65% (Vegan)",
+    "image-url": "",
+    "price": "28.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Cashew", "Almonds", "Dark Chocolate 65% (Vegan)"]
+    },
+    {
+    "id": "94382",
+    "name": "Super Trail Mix",
+    "popular": 0,
+    "description": "Almonds, Walnuts, Berries",
+    "image-url": "",
+    "price": "25.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["Almonds", "Walnuts", "Berries"]
+    },
+    {
+    "id": "94383",
+    "name": "Sprouted Almonds With Cacao",
+    "popular": 0,
+    "description": "Sprouted almonds coated with cocoa and Atlantic sea salt. 60 grams",
+    "image-url": "",
+    "price": "20.00",
+    "consumable": "1:1",
+    "vegeterian": 1,
+    "vegan": 1,
+    "gluten-free": 1,
+    "category_name": "CRACKERS / CHOCOLATE / GRANOLA",
+    "discount": {
+    "type": "",
+    "amount": "0.00"
+    },
+    "tags": ["almonds coated with cocoa", "Atlantic sea salt"]
+    }
+    ]
+    }
+  ],
+  "deals": []
+}
+
+
+

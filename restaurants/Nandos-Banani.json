@@ -1,7 +1,7 @@
 {
   "type": "Restaurant Menu",
   "restaurant-info": {
-    "id": "121731",
+    "id": "121729",
     "name": "Nandos Banani",
     "address": "Ben Ehuda 5, Tel Aviv",
     "latitude": "32.07369458572621",
@@ -13,7 +13,7 @@
     "minimum-order-price": "70.00",
     "delivery-fee": "10.00",
     "avg_delivery_time": "40",
-    "logo": "https://s3-ap-southeast-2.amazonaws.com/aisdevtest/img/2b41b7bbf6da38212e1163c428d44f3a58b1487817bf3.jpg",
+    "logo": "",
     "total-category": "9",
     "phone": "+97234098597",
     "facebook-page": "https://www.facebook.com/nandosbanani/",
@@ -21,12 +21,28 @@
     "menu-url": "https://www.nandosbanani.com/menu",
     "deliverable-area": [
       {
+        "category_id": "1",
+        "district_id": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+      },
+      {
         "category_id": "2",
         "district_id": ["13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
       },
       {
         "category_id": "3",
         "district_id": ["27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+      },
+      {
+        "category_id": "4",
+        "district_id": ["41", "42", "43", "44", "45", "46"]
+      },
+      {
+        "category_id": "5",
+        "district_id": ["47", "48", "49", "50", "51", "52", "53", "54"]
+      },
+      {
+        "category_id": "6",
+        "district_id": ["55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66"]
       }
     ],
     "total-food-items": "35",
