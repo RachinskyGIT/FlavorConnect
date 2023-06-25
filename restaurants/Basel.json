@@ -1,0 +1,465 @@
+{
+  "type": "Restaurant Menu",
+  "restaurant-info": {
+    "id": "121731",
+    "name": "Congress Basel",
+    "address": "Ibn Gvirol 137, Tel Aviv",
+    "latitude": "32.08917355717463",
+    "longitude": "34.78237060570775",
+    "rating": "8.77",
+    "description": "Shawarma, Sport and Home Food",
+    "tags": ["Street Food","Hummus","Sandwich"],
+    "price": "$$",
+    "minimum-order-price": "50.00",
+    "delivery-fee": "10.00",
+    "avg_delivery_time": "35",
+    "logo": "https://s3-ap-southeast-2.amazonaws.com/aisdevtest/img/2b41b7bbf6da38212e1163c428d44f3a58b1487817bf3.jpg",
+    "total-category": "9",
+    "phone": "+97235757597",
+    "facebook-page": "https://www.facebook.com/congress.basel/",
+    "site-url": "https://www.congressbasel.com/?fbclid=IwAR2c9KyzOYJslIVfpW2066irGG_StDNjAC_ifr2V7Ki33Mln58j2QABlyS4",
+    "menu-url": "https://www.congressbasel.com/menu",
+    "deliverable-area": [
+      {
+        "category_id": "2",
+        "district_id": ["13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
+      },
+      {
+        "category_id": "3",
+        "district_id": ["27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+      }
+    ],
+    "total-food-items": "35",
+    "restaurant-discount": {
+      "type": "",
+      "value": "0.00"
+    },
+    "restaurant-images": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ]
+  },
+  "restaurant-time-info": {
+    "sat": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "sun": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "mon": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "tue": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "wed": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "thu": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "fri": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ]
+  },
+  "categorys": [
+    {
+      "id": "26574",
+      "name": "SUPER HEALTHY",
+      "position": "1",
+      "menu-items": [
+        {
+          "id": "94298",
+          "name": "Hanale's Porridge",
+          "popular": 1,
+          "description": "Oat Porridge, oat milk, chia, walnut, banana, cinnamon and maple syrup",
+          "image-url": "", 
+          "price": "42.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "SUPER HEALTHY",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["oat porridge", "oat milk", "chia", "walnut", "banana", "cinnamon", "maple syrup"]
+        },       
+        {
+          "id": "94299",
+          "name": "Health bowl",
+          "popular": 0,
+          "description": "Sheep yogurt, seasonal fruits, chia seeds, quark, gluten-free raw granola, raw tahini and silan",
+          "image-url": "", 
+          "price": "44.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 0,
+          "gluten-free": 1,
+          "category_name": "SUPER HEALTHY",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["sheep yogurt", "seasonal fruits", "chia seeds", "quark", "gluten-free raw granola", "raw tahini", "silan"]
+        },        
+        {
+          "id": "94300",
+          "name": "Cocoa Smoothy Bowl",
+          "popular": 0,
+          "description": "Banana, mango, lychee, walnuts, maca root powder, cocoa nibs, cocoa powder, coconut cream, and almonds\n\nToppings: walnuts, cocoa nibs, seasonal Fruit",
+          "image-url": "", 
+          "price": "47.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "SUPER HEALTHY",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": 
+          ["Banana", "mango", "lychee", "walnuts", "maca root powder", "cocoa nibs", "cocoa powder", "coconut cream", "almonds", "walnuts", "cocoa nibs", "seasonal fruit"]
+        },
+        {
+          "id": "94301",
+          "name": "Tropical Smoothy Bowl",
+          "popular": 0,
+          "description": "Papaya, banana, mango, lemon, turmeric, ginger, coconut milk, dates, cinnamon and maca root\n\nToppings: gluten-free raw granola, coconut and seasonal fruit",
+          "image-url": "",
+          "price": "47.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 0,
+          "gluten-free": 1,
+          "category_name": "SUPER HEALTHY",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["Papaya", "banana", "mango", "lemon", "turmeric", "ginger", "coconut milk", "dates", "cinnamon", "maca root", "gluten-free raw granola", "coconut", "seasonal fruit"]
+          },
+          {
+          "id": "94302",
+          "name": "Aphrodisiac",
+          "popular": 1,
+          "description": "Acai, blueberries, banana, hazelnuts, almonds, lemon, maple and almond milk and coconut toppings in a bowl: gluten-free Raw chia seeds, seasonal fruit, granola",
+          "image-url": "",
+          "price": "47.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 0,
+          "gluten-free": 1,
+          "category_name": "SUPER HEALTHY",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["Acai", "blueberries", "banana", "hazelnuts", "almonds", "lemon", "maple", "almond milk", "coconut toppings", "gluten-free raw chia seeds", "seasonal fruit", "granola"]
+          },
+          {
+          "id": "94303",
+          "name": "shampoo",
+          "popular": 0,
+          "description": "Pineapple, banana, peanut butter, cinnamon, coconut milk and almonds\nToppings in a bowl: gluten-free, fruit and coconut chips Raw granola",
+          "image-url": "",
+          "price": "46.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 0,
+          "gluten-free": 1,
+          "category_name": "SUPER HEALTHY",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["Pineapple", "banana", "peanut butter", "cinnamon", "coconut milk", "almonds", "gluten-free", "fruit", "coconut chips", "raw granola"]
+          }      
+      ]
+    },
+    {
+      "id": "26576",
+      "name": "FARM TO TABLE",
+      "position": "3",
+      "menu-items": [
+      {
+      "id": "94304",
+      "name": "Ceaser salad",
+      "popular": 0,
+      "description": "Lettuce, arugula, purple onion, croutons and Parmesan in Caesar dressing",
+      "image-url": "",
+      "price": "54.00",
+      "consumable": "1:1",
+      "vegeterian": 1,
+      "vegan": 0,
+      "gluten-free": 0,
+      "category_name": "FARM TO TABLE",
+      "discount": {
+      "type": "",
+      "amount": "0.00"
+      },
+      "tags": ["Lettuce", "arugula", "purple onion", "croutons", "Parmesan", "Caesar dressing"]
+      },
+      {
+      "id": "94305",
+      "name": "A box of vegetables",
+      "popular": 1,
+      "description": "Lettuce, rocket, green onion, cabbage, cucumber, cherry tomatoes, parsley, lentils, tahini, feta, hard-boiled egg and tuna salad with mayonnaise, in a creamy sauce and lemon juice",
+      "image-url": "",
+      "price": "56.00",
+      "consumable": "1:1",
+      "vegeterian": 1,
+      "vegan": 0,
+      "gluten-free": 0,
+      "category_name": "FARM TO TABLE",
+      "discount": {
+      "type": "",
+      "amount": "0.00"
+      },
+      "tags": ["Lettuce", "rocket", "green onion", "cabbage", "cucumber", "cherry tomatoes", "parsley", "lentils", "tahini", "feta", "hard-boiled egg", "tuna salad", "mayonnaise", "creamy sauce", "lemon juice"]
+      }
+      ]
+      },
+      {
+        "id": "26577",
+        "name": "SANDWICHES",
+        "position": "4",
+        "menu-items": [
+        {
+        "id": "94306",
+        "name": "Tuna sandwich",
+        "popular": 0,
+        "description": "With mayonnaise, pickle, Kalamata olives, parsley, hard-boiled egg and red onion in a bun",
+        "image-url": "",
+        "price": "48.00",
+        "consumable": "1:1",
+        "vegeterian": 0,
+        "vegan": 0,
+        "gluten-free": 0,
+        "category_name": "SANDWICHES",
+        "discount": {
+        "type": "",
+        "amount": "0.00"
+        },
+        "tags": ["mayonnaise", "pickle", "Kalamata olives", "parsley", "hard-boiled egg", "red onion", "bun"]
+        },
+        {
+        "id": "94307",
+        "name": "Pita Sabih",
+        "popular": 0,
+        "description": "Tahini, smoothie, dipping (spicy sour sauce), potatoes, eggplant, hard-boiled egg, cherries, parsley, purple onion and pickles",
+        "image-url": "",
+        "price": "42.00",
+        "consumable": "1:1",
+        "vegeterian": 1,
+        "vegan": 1,
+        "gluten-free": 0,
+        "category_name": "SANDWICHES",
+        "discount": {
+        "type": "",
+        "amount": "0.00"
+        },
+        "tags": ["Tahini", "smoothie", "dipping", "potatoes", "eggplant", "hard-boiled egg", "cherries", "parsley", "purple onion", "pickles"]
+        },
+        {
+        "id": "94308",
+        "name": "Omelet sandwich",
+        "popular": 1,
+        "description": "With mushrooms, onion and parmesan, rocket, cucumber, mustard butter and thyme, in a bun",
+        "image-url": "",
+        "price": "46.00",
+        "consumable": "1:1",
+        "vegeterian": 1,
+        "vegan": 0,
+        "gluten-free": 0,
+        "category_name": "SANDWICHES",
+        "discount": {
+        "type": "",
+        "amount": "0.00"
+        },
+        "tags": ["mushrooms", "onion", "parmesan", "rocket", "cucumber", "mustard butter", "thyme", "bun"]
+        }
+        ]
+        },
+        {
+          "id": "26578",
+          "name": "DESSERTS",
+          "position": "5",
+          "menu-items": [
+          {
+          "id": "94309",
+          "name": "Chocolate chip vegan cookie",
+          "popular": 0,
+          "description": "",
+          "image-url": "",
+          "price": "12.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 0,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["chocolate chip", "vegan cookie"]
+          },
+          {
+          "id": "94310",
+          "name": "Gluten-free vegan peanut butter cookie",
+          "popular": 0,
+          "description": "🌾",
+          "image-url": "",
+          "price": "12.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["gluten-free", "vegan peanut butter cookie"]
+          },
+          {
+          "id": "94311",
+          "name": "Peanuts & Cocoa Truffles",
+          "popular": 0,
+          "description": "Vegan and Gluten Free Raw",
+          "image-url": "",
+          "price": "8.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["peanuts", "cocoa truffles", "vegan", "gluten-free", "raw"]
+          },
+          {
+          "id": "94312",
+          "name": "Gluten-free vegan Ferrero Rocher cube",
+          "popular": 0,
+          "description": "Hazelnuts, chocolate and almonds",
+          "image-url": "",
+          "price": "8.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["gluten-free", "vegan Ferrero Rocher cube", "hazelnuts", "chocolate", "almonds"]
+          },
+          {
+          "id": "94313",
+          "name": "Gluten-free vegan coconut and peanut butter cube",
+          "popular": 0,
+          "description": "Almonds and coconut",
+          "image-url": "",
+          "price": "8.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["gluten-free", "vegan coconut and peanut butter cube", "almonds", "coconut"]
+          },
+          {
+          "id": "94314",
+          "name": "Goji-berry Cube",
+          "popular": 0,
+          "description": "With coconut and cashew\nVegan, Gluten Free",
+          "image-url": "",
+          "price": "6.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["Goji-berry Cube", "coconut", "cashew", "vegan", "gluten-free"]
+          },
+          {
+          "id": "94315",
+          "name": "A slice of carrot cake",
+          "popular": 0,
+          "description": "",
+          "image-url": "",
+          "price": "17.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["carrot cake"]
+          },
+          {
+          "id": "94316",
+          "name": "Small Chocolate-orange Raw Pie",
+          "popular": 0,
+          "description": "Vegan, Gluten Free",
+          "image-url": "",
+          "price": "14.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "DESSERTS",
+          "discount": {
+          "type": "",
+          "amount": "0.00"
+          },
+          "tags": ["Chocolate-orange Raw Pie", "vegan", "gluten-free"]
+          }
+          ]
+          }
+        
+      ],
+  "deals": []
+}
+
+
+

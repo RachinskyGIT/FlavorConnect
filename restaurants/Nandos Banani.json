@@ -1,0 +1,342 @@
+{
+  "type": "Restaurant Menu",
+  "restaurant-info": {
+    "id": "121731",
+    "name": "Nandos Banani",
+    "address": "Ben Ehuda 5, Tel Aviv",
+    "latitude": "32.07369458572621",
+    "longitude": "34.76796289092691",
+    "rating": "7.05",
+    "description": "Indian taste",
+    "tags": ["Indian","Street Food","Burger","Sandwich"],
+    "price": "$",
+    "minimum-order-price": "70.00",
+    "delivery-fee": "10.00",
+    "avg_delivery_time": "40",
+    "logo": "https://s3-ap-southeast-2.amazonaws.com/aisdevtest/img/2b41b7bbf6da38212e1163c428d44f3a58b1487817bf3.jpg",
+    "total-category": "9",
+    "phone": "+97234098597",
+    "facebook-page": "https://www.facebook.com/nandosbanani/",
+    "site-url": "https://www.nandosbanani.com/index",
+    "menu-url": "https://www.nandosbanani.com/menu",
+    "deliverable-area": [
+      {
+        "category_id": "2",
+        "district_id": ["13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
+      },
+      {
+        "category_id": "3",
+        "district_id": ["27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40"]
+      }
+    ],
+    "total-food-items": "35",
+    "restaurant-discount": {
+      "type": "",
+      "value": "0.00"
+    },
+    "restaurant-images": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ]
+  },
+  "restaurant-time-info": {
+    "sat": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "sun": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "mon": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "tue": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "wed": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "thu": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "fri": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ]
+  },
+  "categorys": [
+    {
+      "id": "26576",
+      "name": "Appeteasers",
+      "position": "1",
+      "menu-items": [
+        {
+          "id": "94301",
+          "name": "Chicken Livers and Portuguese Roll",
+          "position": 2,
+          "popular": 0,
+          "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+          "image-url": "",
+          "price": "250.00",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Appeteasers",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Chicken Livers", "PERi-PERi Sauce", "Roll"]
+        }
+        ,
+        {
+          "id": "94304",
+          "name": "Spicy Mixed Olives (V)",
+          "position": 3,
+          "popular": 0,
+          "description": "Co-Starring Garlic, Pepper and Chili",
+          "image-url": "",
+          "price": "215.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "Appeteasers",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Spicy Mixed Olives", "Garlic", "Pepper", "Chili"]
+        },
+        {
+          "id": "94307",
+          "name": "Hummus with PERI-PERI Drizzle (V)",
+          "position": 4,
+          "popular": 0,
+          "description": "Pour Smoky PERi-PERi Oil Over Creamy Hummus and Dig in with Strips Of Warm Pita",
+          "image-url": "",
+          "price": "215.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 0,
+          "category_name": "Appeteasers",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Hummus", "PERi-PERi Oil", "Creamy Hummus", "Warm Pita"]
+        },
+        {
+          "id": "94310",
+          "name": "Red Pepper Dip (V)",
+          "position": 5,
+          "popular": 0,
+          "description": "Dive Into Temping Roasted Red Pepper and Chili Spice Dip with Warm Pita Strips",
+          "image-url": "",
+          "price": "205.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 0,
+          "category_name": "Appeteasers",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Red Pepper Dip", "Roasted Red Pepper", "Chili Spice Dip", "Warm Pita Strips"]
+        },
+        {
+          "id": "94313",
+          "name": "Appeteaser Platter",
+          "position": 6,
+          "popular": 0,
+          "description": "Choose any Three Appeteasers",
+          "image-url": "",
+          "price": "615.00",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Appeteasers",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Appeteaser Platter"]
+        }
+        ,
+        {
+          "id": "94316",
+          "name": "All Together Now (V)",
+          "position": 7,
+          "popular": 0,
+          "description": "Spicy Mixed Olives, Red Pepper Dip, Hummus with PERi-PERi Drizzle and Warm Pita Strips",
+          "image-url": "",
+          "price": "520.00",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 0,
+          "category_name": "Appeteasers",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Spicy Mixed Olives", "Red Pepper Dip", "Hummus", "PERi-PERi Drizzle", "Warm Pita Strips"]
+        }        
+      ]
+    },
+    {
+      "id": "26582",
+      "name": "Fino sides",
+      "position": "2",
+      "menu-items": [
+        {
+          "id": "94334",
+          "name": "PERi-PERi Wedges (P)",
+          "position": 8,
+          "popular": 0,
+          "description": "",
+          "image-url": "",
+          "price": "",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Fino sides",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["PERi-PERi Wedges"]
+        },
+        {
+          "id": "94337",
+          "name": "Corn-On-The-Cob",
+          "position": 9,
+          "popular": 0,
+          "description": "",
+          "image-url": "",
+          "price": "",
+          "consumable": "1:1",
+          "vegeterian": 1,
+          "vegan": 1,
+          "gluten-free": 1,
+          "category_name": "Fino sides",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Corn-On-The-Cob"]
+        }   
+      ]
+    },
+    {
+      "id": "26597",
+      "name": "Burgers, pitas, wraps",
+      "position": "3",
+      "menu-items": [
+        {
+          "id": "94388",
+          "name": "Chicken Wrap (Y)",
+          "position": 32,
+          "popular": 0,
+          "description": "A Lightly Toasted Wrap, Generously Filled With Tender Chicken, Chili Jam, Green Leaf Lettuce and Tangy Yoghurt Sauce",
+          "image-url": "",
+          "price": "",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Burgers, pitas, wraps",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Chicken Wrap", "Tender Chicken", "Chili Jam", "Green Leaf Lettuce", "Tangy Yoghurt Sauce"]
+        },
+        {
+          "id": "94391",
+          "name": "Chicken Breast Burger (M)",
+          "position": 33,
+          "popular": 0,
+          "description": "Served on A Toasted Portuguese Roll with Fresh Rocket, Tomato, Pickled Red Onions and Perinaise",
+          "image-url": "",
+          "price": "",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Burgers, pitas, wraps",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Chicken Breast Burger", "Toasted Portuguese Roll", "Fresh Rocket", "Tomato", "Pickled Red Onions", "Perinaise"]
+        },
+        {
+          "id": "94394",
+          "name": "Chicken Caesar Wrap (M)",
+          "position": 34,
+          "popular": 0,
+          "description": "Served in A Toasted Wrap Full Of PERi-PERi Chicken, Crunchy Croutons, Parmesan Cheese and Sundried Tomatoes, All Smothered in Creamy Caesar Dressing",
+          "image-url": "",
+          "price": "",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Burgers, pitas, wraps",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Chicken Caesar Wrap", "PERi-PERi Chicken", "Crunchy Croutons", "Parmesan Cheese", "Sundried Tomatoes", "Creamy Caesar Dressing"]
+        },
+        {
+          "id": "94397",
+          "name": "Chicken Pita (M)",
+          "position": 35,
+          "popular": 0,
+          "description": "Served in A Lightly Toasted Pita, Stuffed With Chicken Tenders, Crisp Veggie Salad and Creamy Whip",
+          "image-url": "",
+          "price": "",
+          "consumable": "1:1",
+          "vegeterian": 0,
+          "vegan": 0,
+          "gluten-free": 0,
+          "category_name": "Burgers, pitas, wraps",
+          "discount": {
+            "type": "",
+            "amount": "0.00"
+          },
+          "tags": ["Chicken Pita", "Toasted Pita", "Chicken Tenders", "Crisp Veggie Salad", "Creamy Whip"]
+        }
+        
+      ]
+    }
+  ],
+  "deals": []
+}

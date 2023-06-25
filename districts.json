@@ -1,0 +1,106 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "category": "Northwest",
+        "districts": [
+          { "id": 1, "name": "Azorei Hen" },
+          { "id": 2, "name": "Kokhav HaTzafon" },
+          { "id": 3, "name": "Shikun Lamed" },
+          { "id": 4, "name": "Migdalei Ne'eman" },
+          { "id": 5, "name": "Neve Avivim" },
+          { "id": 6, "name": "Nofei Yam" },
+          { "id": 7, "name": "Ramat Aviv Aleph" },
+          { "id": 8, "name": "Ramat Aviv Gimmel" },
+          { "id": 9, "name": "Ramat Aviv HaHadasha" },
+          { "id": 10, "name": "Museum campus" },
+          { "id": 11, "name": "Tel Aviv University Campus" },
+          { "id": 12, "name": "Yarkon Park" }
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Northeast",
+        "districts": [
+          { "id": 13, "name": "Ganei Tzahala" },
+          { "id": 14, "name": "HaMishtalah" },
+          { "id": 15, "name": "Hadar Yosef" },
+          { "id": 16, "name": "Ma'oz Aviv" },
+          { "id": 17, "name": "Ne'ot Afeka" },
+          { "id": 18, "name": "Neve Sharret" },
+          { "id": 19, "name": "Ramat HaHayal" },
+          { "id": 20, "name": "Ramot Tzahala" },
+          { "id": 21, "name": "Revivim" },
+          { "id": 22, "name": "Shikun Dan" },
+          { "id": 23, "name": "Tel Baruch" },
+          { "id": 24, "name": "Tzahala" },
+          { "id": 25, "name": "Yisgav" },
+          { "id": 26, "name": "Kiryat Atidim" }
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Central",
+        "districts": [
+          { "id": 27, "name": "HaTzafon HaYashan" },
+          { "id": 28, "name": "Yehuda HaMaccabi" },
+          { "id": 29, "name": "Montefiore" },
+          { "id": 30, "name": "Lev HaIr" },
+          { "id": 31, "name": "Kerem Hatemanim" },
+          { "id": 32, "name": "Bavli" },
+          { "id": 33, "name": "Tzamarot Ayalon" },
+          { "id": 34, "name": "Giv'at Amal Bet" },
+          { "id": 35, "name": "Neve Tzedek" },
+          { "id": 36, "name": "Shabazi" },
+          { "id": 37, "name": "Ohel Moshe" },
+          { "id": 38, "name": "HaRakevet" },
+          { "id": 39, "name": "HaKirya" },
+          { "id": 40, "name": "Menashiya" }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Southwest",
+        "districts": [
+          { "id": 41, "name": "Old Jaffa" },
+          { "id": 42, "name": "Yafo C" },
+          { "id": 43, "name": "Giv'at HaTmarim" },
+          { "id": 44, "name": "Ajami" },
+          { "id": 45, "name": "Tzahalon" },
+          { "id": 46, "name": "Givat Aliyah" }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "South",
+        "districts": [
+          { "id": 47, "name": "Florentin" },
+          { "id": 48, "name": "Neve Sha'anan" },
+          { "id": 49, "name": "Neve Ofer" },
+          { "id": 50, "name": "Kiryat Shalom" },
+          { "id": 51, "name": "Shapira" },
+          { "id": 52, "name": "Giv'at Herzl" },
+          { "id": 53, "name": "Abu Kabir" },
+          { "id": 54, "name": "American–German Colony" }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "Southeast",
+        "districts": [
+          { "id": 55, "name": "Nahalat Yitzhak" },
+          { "id": 56, "name": "Bitzaron" },
+          { "id": 57, "name": "Ramat Yisrael" },
+          { "id": 58, "name": "Tel Haim" },
+          { "id": 59, "name": "Yad Eliyahu" },
+          { "id": 60, "name": "Ramat HaTayasim" },
+          { "id": 61, "name": "Neve Tzahal" },
+          { "id": 62, "name": "Kfar Shalem" },
+          { "id": 63, "name": "HaArgazim" },
+          { "id": 64, "name": "Shkhunat HaTikva" },
+          { "id": 65, "name": "Neve Barbur" },
+          { "id": 66, "name": "Ezra" }
+        ]
+      }
+    ]
+  }
