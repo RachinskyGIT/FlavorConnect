@@ -27,9 +27,17 @@ def split_tags(input_file, output_file, layout):
         new_tags.extend(tag.split())
 
     data['tags'] = new_tags
+    data['tags'] = sorted(set(data['tags']))
+    print(type(data['tags']))
+
+    # Запись информации о количестве тегов в файл
+    with open('FlavorConnect/jsons/dish-tags-spliced-quantity.txt', 'w') as f:
+        f.write(f"Number of tags in splitted file: {len(data['tags'])}\n")
 
     # Удаляем дубликаты, приводим все к нижнему регистру
     new_tags = list(set(tag.lower() for tag in new_tags))
+
+
 
     if layout == "column":
         with open(output_file, 'w') as f:
@@ -37,7 +45,7 @@ def split_tags(input_file, output_file, layout):
         print (f"The tags was spliced, теги были сохранены в файле: {output_file}")
     elif layout == "row":
         with open(output_file, 'w') as f:
-            json.dump(data, f, indent=None)
+            f.write(json.dumps(data, separators=(',', ':'))) #сериализатор убирает пробелы между тэгами
         print (f"The tags was spliced, теги были сохранены в файле: {output_file}")
 
 
@@ -80,6 +88,9 @@ def main():
     print(f"Извлеченные теги были сохранены в файле: {output_file}")
     split_tags(output_file, splitted_output_file_row, "row")
 
+    # Запись информации о количестве тегов в файл
+    with open('FlavorConnect/jsons/dish-tags-quantity.txt', 'w') as f:
+        f.write(f"Number of tags in the file: {len(tags_list)}\n")
 
 if __name__ == '__main__':
     main()
