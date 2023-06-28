@@ -1,3 +1,25 @@
-{"prompt":"You are bad->","completion":" red\n"}
-{"prompt":"You are good->","completion":" green\n"}
-{"prompt":"You are neutral->","completion":" gray\n"}
+{"prompt":"I want to eat pizza->","completion":" italy, pizza, salami, mozzarella, kalamata, pastrami, dish, olives, paprika, parmesan\n"}
+{"prompt":"I want pizza->","completion":" italy, pizza, salami, mozzarella, kalamata, pastrami, dish, olives, paprika, parmesan\n"}
+{"prompt":"I want to eat pasta->","completion":" italy, pasta, parmigiano, parmesan, dish, tomato, tomatoes, creamy, gluten-free, portobello\n"}
+{"prompt":"I want pasta->","completion":" italy, pasta, parmigiano, parmesan, dish, tomato, tomatoes, creamy, gluten-free, portobello\n"}
+{"prompt":"I want to eat italian food->","completion":" italy, bolognese, risotto, gorgonzola, mozzarella, sorrentina, kalamata, focaccia, pasta, mediterranean\n"}
+{"prompt":"I want to eat something from italian cuisine->","completion":" italy, bolognese, risotto, gorgonzola, mozzarella, sorrentina, kalamata, focaccia, pasta, mediterranean\n"}
+{"prompt":"I want to eat european cuisine->","completion":" italy, portuguese, caesar, dutch, sausages, feta, strudel, mediterranean, chicken, bulgarian\n"}
+{"prompt":"I want to eat something from european cuisine->","completion":" italy, portuguese, caesar, dutch, sausages, feta, strudel, mediterranean, chicken, bulgarian\n"}
+{"prompt":"I want to eat asian cuisine->","completion":" japanese, indonesian, bowl, noodles, coconut, spicy, spices, tofu, rice, chicken\n"}
+{"prompt":"I want to eat something from asian cuisine->","completion":" japanese, indonesian, bowl, noodles, coconut, spicy, spices, tofu, rice, chicken\n"}
+{"prompt":"I want to eat israeli cuisine->","completion":" majhol, falafel, hummus, laffa, pita, prigat, fried, fries, olives, salad\n"}
+{"prompt":"I want to eat something from israeli cuisine->","completion":" majhol, falafel, hummus, laffa, pita, prigat, fried, fries, olives, salad\n"}
+{"prompt":"I want to try something Israeli->","completion":" majhol, falafel, hummus, laffa, pita, prigat, fried, fries, olives, salad\n"}
+{"prompt":"I want falafel->","completion":" falafel, hummus, laffa, pita, fries, prigat, salad, wrap, family, mediterranean\n"}
+{"prompt":"I want hummus->","completion":" hummus, laffa, pita, fries, prigat, beef, lamb, falafel, wrap, family\n"}
+{"prompt":"I want shawarma->","completion":" lamb, beef, hummus, laffa, pita, fried, fries, prigat, wrap, mediterranean\n"}
+{"prompt":"I want to order dinner for a romantic date->","completion":" couple, wine, vol, dry, red, champagne, dessert, flavors,\n"}
+{"prompt":"I want to order food for the child->","completion":" family, bread, schnitzel, small, sprite, milk, milk-based, hummus, homemade, sweet\n"}
+{"prompt":"I want to order food for the whole family->","completion":" family, large, hummus, homemade, juice, fries, pizza, italy, fingers, potato\n"}
+{"prompt":"I am hungry->","completion":" potato, beef, lamb, large, burger, italy, grilled, rice, noodles, traditional\n"}
+{"prompt":"I want to eat->","completion":" potato, beef, lamb, large, burger, italy, grilled, rice, noodles, traditional\n"}
+{"prompt":"I want a light breakfast->","completion":" oatmeal, egg, milk, blinches, honey, coffee, yogurt, bread, butter, small\n"}
+{"prompt":"I want to eat vegan food->","completion":" vegan, vegetable, oat, nuts, fruit, tofu, mussels, salad, hummus, silan\n"}
+{"prompt":"I follow a vegetarian diet->","completion":" vegan, veggie, vegetable, oat, nuts, fruit, tofu, mussels, salad, hummus, silan\n"}
+{"prompt":"I want to drink beer with the guys->","completion":" vol, beer, pilsner, carlsberg, goldstar, burger, fried, sausages, chips, wings\n"}
