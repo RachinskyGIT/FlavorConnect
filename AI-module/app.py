@@ -17,10 +17,10 @@ def index():
     if request.method == "POST":
         animal = request.form["animal"]
         response = openai.Completion.create(
-            model="text-davinci-003",
-            prompt=generate_prompt(animal),
-            temperature=1,
-            max_tokens=100,
+            model="davinci:ft-personal-2023-06-28-00-18-49",
+            prompt=generate_prompt(),
+            temperature=0.5,
+            max_tokens=50,
         )
         return redirect(url_for("index", result=response.choices[0].text))
 
@@ -47,14 +47,13 @@ def index():
 # Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot, Muchos
 # Animal: {}
 
-def generate_prompt(animal):
-    return """Suggest 3 superhero names for an animal.
-
-Animal: Cat
-Names: Captain Sharpclaw, Agent Fluffball, The Incredible Feline
-Animal: Dog
-Names: Ruff the Protector, Wonder Canine, Sir Barks-a-Lot, Muchos
-Animal: {}
+def generate_prompt():
+    return """Suggest one and only one color for an input:
+Input: You are bad->
+Color: Red###
+Input: You are pretty->
+Color: Pink###
+Input: {}
 """
 
 if __name__ == '__main__':

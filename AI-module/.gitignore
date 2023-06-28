@@ -1,6 +1,7 @@
 venv/
 
 key_NOT_FOR_GITHUB.py
+.myapikey
 
 *.pyc
 __pycache__/
